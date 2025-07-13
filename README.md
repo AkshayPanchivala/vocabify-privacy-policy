@@ -50,7 +50,20 @@ For any questions or concerns, feel free to contact me at: `akshaypanchivala@gma
 
 ---
 
-## 📦 Installation
+## 📌 Important Note
 
-You can https://chromewebstore.google.com/detail/vocabify/ieoaogocfjofgelllmghfpliomldpafg.
+> ⚠️ **This repository is ONLY for the Privacy Policy of the Vocabify Chrome Extension.**  
+> It does **not** contain the actual extension code or project files.
 
+Vocabify is a **live Chrome Extension** available here:  
+🔗 [https://chromewebstore.google.com/detail/vocabify/ieoaogocfjofgelllmghfpliomldpafg](https://chromewebstore.google.com/detail/vocabify/ieoaogocfjofgelllmghfpliomldpafg)
+
+Please **do not request access** to this repository for code content — it is not intended for that purpose.
+
+If you want to **try the extension**, visit the link above and give it a spin!  
+If you'd like to **contribute to future versions** or collaborate on new projects, feel free to reach out:
+
+📬 **Email:** akshaypanchivala@gmail.com  
+🤝 Open to collaboration, ideas, and improvements!
+
+---
